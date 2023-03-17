@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T11:31:11.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.6" etag="Gx51N2D1AttXPgcKknhg" type="github"><diagram name="第 1 页" id="JtTvUVVKAw20evFl09zh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-17T11:35:58.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="URBo2LMMz4Jt2BfHx6bE" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="JtTvUVVKAw20evFl09zh">
+    <mxGraphModel dx="1085" dy="628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="w5RudDRRM9AxVKGs6sKY-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w5RudDRRM9AxVKGs6sKY-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-4" value="输入账号密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="350" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-23" value="密码正确" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w5RudDRRM9AxVKGs6sKY-5">
+          <mxGeometry x="-0.1635" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="w5RudDRRM9AxVKGs6sKY-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-8" value="验证成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w5RudDRRM9AxVKGs6sKY-7">
+          <mxGeometry x="-0.3235" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w5RudDRRM9AxVKGs6sKY-13" target="w5RudDRRM9AxVKGs6sKY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-13" value="登陆成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-15" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="64" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-20" value="密码错误" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w5RudDRRM9AxVKGs6sKY-16" target="w5RudDRRM9AxVKGs6sKY-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="466" y="298" />
+              <mxPoint x="466" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-16" value="判断密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="275" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w5RudDRRM9AxVKGs6sKY-18" target="w5RudDRRM9AxVKGs6sKY-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5RudDRRM9AxVKGs6sKY-18" target="w5RudDRRM9AxVKGs6sKY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-18" value="登陆失败" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="272.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="w5RudDRRM9AxVKGs6sKY-19" value="返回一个token作为一个登陆凭证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="379" width="120" height="54" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
